@@ -119,82 +119,82 @@ b: "pracuje s chemikáliemi v laboratoři.",
 correct: "b",
 },{
   question: "19. Kadeřnice",
-  a: "pravda",
-  b: "lež",
+  a: "stříhá vlasy a dělá účesy.",
+  b: "pečuje o seniory v domově důchodců.",
   
   correct: "a",
 },
 {
-question: "20. Svědomí je vnitřní hlas, který nám říká, co je správné a co ne.",
-a: "pravda",
-b: "lež",
+question: "20. Klempíř ",
+a: "zhotovuje a opravuje výrobky z plechu.",
+b: "sadí ovocné stromy.",
 
 correct: "a",
 },
 {
-  question: "21. Loutky jsou figuríny ze dřeva, látky, papíru nebo plastu.",
-  a: "pravda",
-  b: "lež",
+  question: "21. Zpěvák",
+  a: "zpívá písničky na koncertech.",
+  b: "opravuje pokazené elektrické přístroje.",
   
   correct: "a",
 },
 {
-question: "22. Luk se používá na vaření.",
-a: "pravda",
-b: "lež",
+question: "22. Statistik",
+a: "provádí turisty v pralese.",
+b: "používá matematické modely k vyhodnocování informací.",
 
 correct: "b",
 },
 {
-question: "23. Mikroskop je přístroj k pozorování velmi malých předmětů.",
-a: "pravda",
-b: "lež",
+question: "23. Otorinolaryngolog",
+a: "je doktor, který léčí nemoci nosu, uší a krku.",
+b: "píše články do novin a časopisů.",
 
 correct: "a",
 },
 {
-question: "24. Milion je tisíc tisíců.",
-a: "pravda",
-b: "lež",
-
-correct: "a",
-},{
-question: "25. Klisny mají hříbátka.",
-a: "pravda",
-b: "lež",
-
-correct: "a",
-},
-{
-question: "26. Myslivec je človek , který se živí myšlením.",
-a: "pravda",
-b: "lež",
-
-correct: "b",
-},{
-question: "27. Orel je drahá kočka.",
-a: "pravda",
-b: "lež",
-
-correct: "b",
-},
-{
-question: "28. Noc je část dne od západu slunce do jeho východu.",
-a: "pravda",
-b: "lež",
+question: "24. Soudce",
+a: "rozhoduje právní spory.",
+b: "kontroluje jízdenky ve vlaku.",
 
 correct: "a",
 },{
-question: "29. Ostrov je část země obklopená lávou.",
-a: "pravda",
-b: "lež",
+question: "25. Editor",
+a: "zodpovídá za obsah a formu článků v médiích.",
+b: "řídí letadlo.",
+
+correct: "a",
+},
+{
+question: "26. Radiolog",
+a: "slouží mše v kostele.",
+b: "vyhodnocuje rentgeny a ultrazvuky pacientů.",
+
+correct: "b",
+},{
+question: "27. Tlumočník",
+a: "dělá překlady z jedné řeči do druhé.",
+b: "natáčí videa na Youtube.",
+
+correct: "a",
+},
+{
+question: "28. Archeolog",
+a: "zkoumá vykopávky a nálezy z minulosti.",
+b: "pracuje v bance u pokladny.",
+
+correct: "a",
+},{
+question: "29. Detektiv",
+a: "je specialista na výživu.",
+b: "pátrá po stopách zločinců.",
 
 correct: "b",
 },
 {
-question: "30. Okna slouží k osvětlení ba větrání domů.",
-a: "pravda",
-b: "lež",
+question: "30. Recepční",
+a: "pracuje v hoteli na recepci.",
+b: "vymýšlí a navrhuje reklamy. ",
 
 correct: "a",
 }
